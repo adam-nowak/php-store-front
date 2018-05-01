@@ -1,0 +1,8 @@
+{
+    "name": "php-mvc-tutorial",
+    "version": "1.0.0",
+    "devDependencies": {
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-translate": "^1.5.6"
+    }
+}
